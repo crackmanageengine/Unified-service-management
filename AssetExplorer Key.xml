@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><License>
+   <!--Please do not edit this license file. Editing this file will make the license invalid.-->
+   <Users>
+      <UserInfo ACNTRL="NO" CompanyName="AdventNet" EmailID="assetexplorer-support@manageengine.com" Key="f1PVQTxllAaDQaSnGAP71TazndPXfdD7GJ99zaSSnPJpK1alJc9GyyRyfp7VQTSzdpb3fTTJ3c33fSKPdJ7yxRPTnP3DubT7GRb9KbDcfpa7SNDndNKSAPlTnuPGxPJV" LicenseType="Evaluation" Name="Evaluation User" NoOfDays="30">
+         <ID>ID</ID>
+      </UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+      <Product Category="OEM" Name="AdventNet ManageEngine AssetExplorer" Type="Remote Management" Version="4.0.0"/>
+      <Component Name="AssetExplorer">
+         <Properties Name="NoOfUsers" Value="unlimited"/>
+         <Properties Name="NoOfDevices" Value="200"/>
+         <Properties Name="Fos" Value="true"/>
+      </Component>
+   </LicenseeDetails>
+   <LicenseKey>vKR4sjf00WsvY83vdFOjnGv48m8LNKsRvswFOjnRvRjLH2g4vssAMgO4NvmviXNXMsv4jmvr0I0ITRvRjLH2g4vssAsvN8iNgviXNXMs4vn4Nv3GAdjdj</LicenseKey>
+</License>
